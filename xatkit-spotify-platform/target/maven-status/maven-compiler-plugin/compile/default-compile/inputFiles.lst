@@ -1,0 +1,13 @@
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/GetDevicesNames.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/GetDevicesNameIDs.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/PlaylistData.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/SpotifyPlatform.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/GetPlaylist.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/GetPlaylistNameIDs.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/SearchTrack.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/CreatePlaylist.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/PlayerActions.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/PlayMusic.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/SearchArtist.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/AddTrack.java
+/Users/varmandugon/dbpedia/tmde03/xatkit/platforms/xatkit-spotify-platform/src/main/java/com/xatkit/plugins/spotify/platform/action/GetPlaylists.java

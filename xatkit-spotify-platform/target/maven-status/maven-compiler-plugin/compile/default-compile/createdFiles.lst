@@ -1,0 +1,13 @@
+com/xatkit/plugins/spotify/platform/action/SearchTrack.class
+com/xatkit/plugins/spotify/platform/action/AddTrack.class
+com/xatkit/plugins/spotify/platform/action/PlayerActions.class
+com/xatkit/plugins/spotify/platform/action/CreatePlaylist.class
+com/xatkit/plugins/spotify/platform/action/GetPlaylist.class
+com/xatkit/plugins/spotify/platform/SpotifyPlatform.class
+com/xatkit/plugins/spotify/platform/action/GetPlaylistNameIDs.class
+com/xatkit/plugins/spotify/platform/action/PlaylistData.class
+com/xatkit/plugins/spotify/platform/action/PlayMusic.class
+com/xatkit/plugins/spotify/platform/action/GetPlaylists.class
+com/xatkit/plugins/spotify/platform/action/GetDevicesNameIDs.class
+com/xatkit/plugins/spotify/platform/action/GetDevicesNames.class
+com/xatkit/plugins/spotify/platform/action/SearchArtist.class
